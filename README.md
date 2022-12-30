@@ -32,8 +32,7 @@
 
 ---
 
-## 🔗 Frontend Mentor
+## 🔗 [Frontend Mentor](https://www.frontendmentor.io/)
 
-<a href = "https://www.frontendmentor.io/home">
 
 ---
